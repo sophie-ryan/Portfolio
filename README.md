@@ -21,5 +21,5 @@
 
 ### Projects
 - [Employment and Wellbing](EmploymentWellbeing.pdf)
-- Analysis of Socioeconomic Mobility w/ Regression
+- [Analysis of Socioeconomic Mobility w/ Regression](https://github.com/sophie-ryan/Portfolio/blob/888ee2b076f5f906b0d70bbb3c3a4dcb2712a55a/Analysis%20of%20Socioeconomic%20Mobility.pdf)
 - Machine Learning in Python
