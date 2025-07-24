@@ -8,5 +8,5 @@
 
 ### Projects
 - [Employment and Wellbing](EmploymentWellbeing.pdf)
-- [Socioeconomic Mobility] ()
-- [Machine Learning in Python] ()
+- Analysis of Socioeconomic Mobility w/ Regression
+- Machine Learning in Python
