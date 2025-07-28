@@ -22,4 +22,6 @@
 ### Projects
 - [Analysis of Socioeconomic Mobility with Regression](https://github.com/sophie-ryan/Portfolio/blob/888ee2b076f5f906b0d70bbb3c3a4dcb2712a55a/Analysis%20of%20Socioeconomic%20Mobility.pdf)
 - [Predictive Modeling with Machine Learning in Python](https://github.com/sophie-ryan/Portfolio/blob/0091dfd0122c1651aa732334f85ad78b3d52c669/Machine%20Learning%20w%20RMSE.ipynb)
+- [Seasonal Affective Disorder Investigation through Reddit](https://colab.research.google.com/drive/19cOA5ppQK4BgTeTpY5UQClcar5xiD5WF?usp=sharing) 
 - [Employment and Wellbing Analysis](EmploymentWellbeing.pdf)
+  
